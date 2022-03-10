@@ -1,0 +1,3 @@
+# learning-git
+
+THIS REPO WAS USED TO LEARN HOW TO USE GIT
